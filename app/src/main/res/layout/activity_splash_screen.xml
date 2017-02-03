@@ -36,7 +36,7 @@
         android:layout_width="160dp"
         android:layout_height="160dp"
         android:layout_marginTop="26dp"
-        android:background="@drawable/FightingIrish"
+        android:background="@drawable/fighting_irish"
         android:id="@+id/button"
         android:layout_below="@+id/textView2"
         android:layout_centerHorizontal="true" />
